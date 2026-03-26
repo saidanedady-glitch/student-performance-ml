@@ -33,3 +33,5 @@ y_pred = model.predict(X_test)
 
 # Evaluation
 print(classification_report(y_test, y_pred))
+# Added preprocessing and model training
+Implemented preprocessing and Random Forest model
