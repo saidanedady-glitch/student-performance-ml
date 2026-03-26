@@ -21,3 +21,6 @@ Using class_weight='balanced' improved recall for failing students and increased
 ## Structure
 - model.py → core ML model
 - data/ → dataset
+  
+Additional notes on model performance
+Improved documentation and error analysis
